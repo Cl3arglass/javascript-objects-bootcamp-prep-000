@@ -1,4 +1,5 @@
 var playlist = {
+  Joydivision: "Transmission"
    };
 
  function updatePlaylist(playlist, artistName, songTitle){
